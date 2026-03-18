@@ -1,4 +1,31 @@
-- 🔭 Hi I'am Prajjwal pradhan
+# Hi there! 👾 I'm Prajwal Pradhan
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=BCA+Student;Web+Developer+%26+UI%2FUX+Enthusiast;Learning+%26+Building+New+Things)](https://git.io/typing-svg)
+
+---
+
+## 🚀 About Me
+
+I'm Prajwal, a passionate BCA student delving into the exciting world of web development and UI/UX design. Based in Rhenock, I'm currently focused on mastering foundational web technologies and exploring how to create intuitive and engaging user experiences. My journey involves hands-on coding with HTML, CSS, JavaScript, and Python, constantly learning and refining my skills one repository at a time. I thrive on bringing ideas to life through code and design, always eager to explore new technologies and contribute to meaningful projects.
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwalpradhan009-spec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpradhan009-spec&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+## 🎯 Current Focus
+
+- 🔭 Working on: **Building foundational web projects & enhancing UI/UX skills**
+- 🌱 Learning: **Advanced JavaScript frameworks & modern design principles**
+- 👯 Looking to collaborate on: **Entry-level web development projects & open-source initiatives**
+- 💬 Ask me about: **Front-end development, UI/UX basics, Python scripting**
+- ⚡ Fun fact: **I love exploring new design patterns and user interaction ideas!**
+
+---
+
+
+
+
 - 🌱 I’m currently learning coading.
 - 💬 Ask me about Tech support
 - 📫 How to reach me: Enter your email here
