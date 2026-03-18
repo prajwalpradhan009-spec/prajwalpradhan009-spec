@@ -1,6 +1,6 @@
 # Hi there! 👾 I'm Prajwal Pradhan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=BCA+Student;Web+Developer+%26+UI%2FUX+Enthusiast;Learning+%26+Building+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=535&lines=BCA+Student(Bachelor+Computer+Application);Web+Developer+%26+UI%2FUX+Enthusiast;Learning+%26+Building+New+Things)](https://git.io/typing-svg)
 
 ---
 
