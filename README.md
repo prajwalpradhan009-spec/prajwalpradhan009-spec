@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm Prajwal, a passionate BCA student delving into the exciting world of web development and UI/UX design. Based in Rhenock, I'm currently focused on mastering foundational web technologies and exploring how to create intuitive and engaging user experiences. My journey involves hands-on coding with HTML, CSS, JavaScript, and Python, constantly learning and refining my skills one repository at a time. I thrive on bringing ideas to life through code and design, always eager to explore new technologies and contribute to meaningful projects.
+Based in Rhenock, I'm a BCA student on a mission to craft exceptional digital experiences. As a web developer and UI/UX enthusiast, I thrive on building intuitive, responsive applications that look as good as they function. Driven by continuous learning and hands-on coding, I am always eager to explore new technologies and bring innovative ideas to life.
 
 ## 🎯 Current Focus
 
